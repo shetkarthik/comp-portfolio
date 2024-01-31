@@ -4,6 +4,7 @@ import './footer.css';
 const Footer = () => {
   return (
     <div className="footer">
+
     <div className='d-flex justify-content-around fs-4'>
         <div className='m-1'>
             <a href="tel:8971806295" className="text-primary" target='_blank'>
@@ -18,6 +19,7 @@ const Footer = () => {
         <div className='m-1'>
             <a href="https://www.linkedin.com/in/karthik-shet-3049521a1/" className="text-success" target='_blank'>
                 <i className="fa-brands fa-linkedin"></i>
+                
             </a>
         </div>
     </div>
