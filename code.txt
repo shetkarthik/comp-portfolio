@@ -1,0 +1,46 @@
+ <div className='row'>
+        <div className='col-lg-6 col-md-12 col-sm-12 col-12 border-right-1 mt-5'>
+          <div className='profile_text m-auto text-center mt-5 d-flex justify-content-center flex-column h-75'>
+          <div className='container'>
+    <h1 className='display-4'>Hi,</h1>
+    <h1 className='display-5'>I am Karthik Shet</h1>
+    <h1 className='animate_this'>
+        <span className={`first_line ${isVisible ? 'visible' : 'hidden'} `}>Developer</span>
+        <span className={`second_line ${isVisible ? 'hidden' : 'visible'}`}>
+            <span className='text-danger'>D</span>
+            <span className='text-lowercase text-success'>E</span>
+            <span className='text-lowercase text-warning'>S</span>
+            <span className='text-lowercase text-primary'>I</span>
+            <span className='text-lowercase text-secondary'>G</span>
+            <span className='text-lowercase text-danger'>N</span>
+            <span className='text-lowercase text-info'>E</span>
+            <span className='text-lowercase text-primary'>R</span>
+            <span className='text-lowercase text-danger'>.</span>
+            <span className='text-lowercase text-primary'>.</span>
+            <span className='text-lowercase text-success'>.</span>
+        </span>
+    </h1>
+
+    <p className='mt-4'>
+        I am a skilled developer with expertise in various technologies and programming languages.
+        My proficiency includes but is not limited to:
+    </p>
+    
+    <ul className='list-group'>
+        <li className='list-group-item'>Front-end Development (HTML, CSS, JavaScript)</li>
+        <li className='list-group-item'>Back-end Development (Node.js, Express)</li>
+        <li className='list-group-item'>Database Management (MongoDB, MySQL)</li>
+        <li className='list-group-item'>React.js and other modern frameworks</li>
+        <li className='list-group-item'>Responsive Web Design</li>
+      
+    </ul>
+</div>
+
+          </div>
+              
+          </div>
+          <div className='col-lg-6 col-md-12 col-sm-12 col-12'>
+           <img src='https://img.freepik.com/free-vector/binary-code-concept-illustration_114360-6578.jpg?w=740&t=st=1705329471~exp=1705330071~hmac=e295bc5e6db2ed4d2d27aae43051830988ab79c6a9fa779a104a7e3e5f745012'className='img-fluid home_image'/>       
+          </div>
+         
+        </div>

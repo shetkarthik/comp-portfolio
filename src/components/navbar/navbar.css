@@ -1,0 +1,20 @@
+.navbar_heading{
+    color: red;
+}
+
+.nav_icon{
+    font-size: 3rem;
+    transform: rotate(90deg);
+}
+
+.nav-link{
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    margin-right: 12px;
+}
+
+.nav-link:hover{
+    border-bottom: 2px solid;
+    transition: all ease-in-out 1s;
+}

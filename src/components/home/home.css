@@ -1,0 +1,175 @@
+.display-font{
+    font-size: 25pc;
+    font-weight: bold;
+    text-align: center;
+ 
+}
+.home_background {
+    position: relative;
+    height: 100vh;
+}
+
+
+
+.home_content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #fff; /* Set the text color */
+    /* Add other styles as needed */
+}
+
+
+.home_font{
+    font-size: 3.5rem;
+    letter-spacing: 3px;
+}
+
+.home_image{
+    transform: scale(0.6);
+}
+
+.home_width {
+    width: 100%;
+  
+    overflow: hidden;
+    
+}
+
+.net_icon_width{
+    width: 100px;
+}
+
+.first_text_block{
+    background-color: black;
+    color: white;
+   
+}
+
+.font_poppin{
+    font-family: 'poppins';
+    text-align: 'center';
+}
+
+
+
+.icon_width{
+    width: 50px;
+}
+
+.list-group-item{
+padding: 12px;
+    border-bottom: 1px solid;
+}
+
+.skill_height{
+    height: 50vh;
+}
+
+
+.skills_container_width{
+  
+    border: 1px solid;
+    border-radius: 0;
+}
+
+.profile_spaced{
+    letter-spacing: 12px;
+}
+.skills_spaced{
+    letter-spacing: 6px;
+}
+
+.tech_name_spacing{
+    letter-spacing: 8px;
+}
+.icon_margin
+{
+    margin: 1rem;
+}
+
+.scaled::first-letter{
+  transform: scale(1.5);
+}
+
+.scaled{
+    transform: scale(0.6);
+}
+
+
+.first_line,
+.second_line {
+  display: none;
+  transition: display 0.2s ease-in-out;
+}
+
+.visible {
+    display: block;
+}
+
+.hidden {
+    display: none;
+}
+
+
+@media only screen and (max-width: 768px) {
+    .display-font {
+        font-size: 20pc;
+    }
+
+    .net_icon_width {
+        width: 80px;
+    }
+
+    .home_subimage{
+        display: none;
+    }
+    .tech_stack_name{
+        display: none;
+    }
+    .icon_margin{
+        margin: 0;
+        margin-bottom: 1rem;
+        margin-right: 1rem;
+    }
+
+    .skill_height{
+        height: max-content;
+    }
+  
+}
+
+@media only screen and (max-width: 480px) {
+    .display-font {
+        font-size: 15pc;
+    }
+
+    .net_icon_width {
+        width: 60px;
+    }
+
+    .font_poppin {
+        font-size: 16px;
+    }
+
+    .icon_width {
+        width: 40px;
+    }
+
+    .profile_spaced {
+        letter-spacing: 8px;
+    }
+
+    .tech_name_spacing {
+        letter-spacing: 4px;
+    }
+
+   
+}
+
+
+
+
+

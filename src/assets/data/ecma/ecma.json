@@ -1,0 +1,22 @@
+{
+    "ecma": 
+    {
+      "pname": "ECMA",
+      "pdesc": " Online destination for luxury bags, offering a curated selection of premium brands and exclusive designs. Elevate your style with timeless elegance and sophistication."
+    },
+  "features": 
+    {
+      "keyfeature": "Explore an extensive collection of luxury bags with a user-friendly brand-centric search",
+      "keyfeature2": "Efficiently manage product listings, inventory, and order fulfillment through a robust admin dashboard",
+      "keyfeature3": "Experience a visually appealing and interactive interface designed for seamless navigation.",
+      "keyfeature4": "Offer a seamless shopping experience across devices with a responsive and mobile-friendly design"
+    },
+    "images":{
+        "image1":"https://lh3.googleusercontent.com/drive-storage/ANtge_F6AzpRoJ2wLt0_zya603LekpMJFzkWgE-pFxWnE66B2N3QEnJqM9FDJhuYyl-4evWWFl55XH7maIEIljlCHrGKHl5Vq80eGD1sATzz4w=w1920-h868",
+        "image2":"https://lh3.googleusercontent.com/drive-storage/ANtge_GjsJ-IcA4g8353dkMpvJx1Mz05xkUBJClVmIcGrMWgvg5VPV5JEsw3bTP6w_QcmzPC7JAdI5euWbsPnz68Umgg5lft0VVnC9tgJTRS=w1920-h868",
+        "image3":"https://lh3.googleusercontent.com/drive-storage/ANtge_Hj-5Xa2raXaCYGT3maxFqnBEM5QPXhni3Jw3ZWZ4nQI1YWQi2NHz7c9bh2wj3b14hUhLskj1lvnsRYHWYANwFhMRUvG0bPwdfKvBhg6A=w1920-h868"
+       
+    }
+  
+}
+
